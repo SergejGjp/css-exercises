@@ -1,0 +1,14 @@
+.buttona,
+.buttonb {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttona {
+    background-color: black;
+    color: white;
+}
+
+.buttonb {
+    background-color: yellow;
+}
